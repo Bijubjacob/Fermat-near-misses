@@ -10,6 +10,8 @@ Purpose:
     10 <= x <= k and 10 <= y <= k, and finds z such that z^n is closest to (x^n + y^n).
     It prints a line whenever a new smallest relative miss is found.
 """
+from yt_dlp.extractor.hellporno import HellPornoIE
+
 
 def near_miss():
 
