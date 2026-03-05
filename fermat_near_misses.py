@@ -89,7 +89,7 @@ def near_miss():
                 print("No results found (this should not happen).")
 
                 # Pause so the output stays visible in the IDE
-            input("\nPress Enter to exit...")
+            exit(input("\nPress Enter to exit..."))
 
 if __name__ == "__main__":
     near_miss()
